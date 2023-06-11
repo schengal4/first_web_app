@@ -46,11 +46,11 @@ p {
     text-align: center
 }
 p {
-    width: 50px;
+    width: 120px;
     background: black;
     border: 15px black;
     padding: 60px;
-    margin: 0px;
+    margin: 20px;
     margin-bottom: 40px;
 }
 /*
